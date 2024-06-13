@@ -7,7 +7,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight">
   <img height="200em" width="450em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiira&layout=donut-vertical">
-</div><br>
+</div>
 <hr>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50em" width="50em"/>
