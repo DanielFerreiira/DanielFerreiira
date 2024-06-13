@@ -5,8 +5,8 @@
 - 😄 Estou buscando pessoas que tenham desejo de crescer na área da tecnologia
 - 📫 Meus contatos: Email: danielferro01234@gmail.com
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight">
-  <img height="200em" width="450em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiira&layout=donut-vertical">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight">
+  <img height="200em" align="center" width="450em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiira&layout=donut-vertical">
 </div>
 <hr>
 <div>
