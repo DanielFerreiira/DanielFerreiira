@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, Eu sou Daniel Ferreira👋
 
-<!--
-**DanielFerreiira/DanielFerreiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Estou estudando na faculdade Fatec Zona Sul 
+- 💻 Desenvolvendo projetos em meu tempo livre mais voltados para o BackEnd
+- 😄 Estou buscando pessoas que tenham desejo de crescer na área da tecnologia
+- 📫 Meus contatos: Email: danielferro01234@gmail.com
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiira&layout=donut-vertical">
+</div><br>
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50em" width="50em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50em" width="50em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50em" width="50em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50em" width="50em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50em" width="50em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50em" width="50em"/>
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:danielferro01234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a><!-- GMAIL -->
+  
+  <a href="https://www.linkedin.com/in/daniel-ferreira1999/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a><!-- LINKEDIN -->
+
+  <a href="https://www.linkedin.com/in/daniel-ferreira1999/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a><!-- INSTAGRAM -->
+</div>
