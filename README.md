@@ -1,7 +1,7 @@
 ## Hi there, Eu sou Daniel Ferreira👋
 
 - 🏫 Estudante na faculdade Fatec Zona Sul, em Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos em meu tempo livre mais voltados para o BackEnd
+- 💻 Desenvolvendo projetos em meu tempo livre mais voltados para Desenvolvimento de Sistemas
 - 😄 Estou buscando pessoas que tenham desejo de crescer na área da tecnologia
 - 📫 Meus contatos: Email: danielferro01234@gmail.com
 <div>
