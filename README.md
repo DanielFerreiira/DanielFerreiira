@@ -1,9 +1,16 @@
+
 <h1> Hello There, I'm Daniel Ferreira 👋</h1>
-<a href="https://www.instagram.com/daniel.ferreira.01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a> <a href="https://www.linkedin.com/in/danielferreiira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a href="https://www.tiktok.com/@ritmoexpresso" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></img>
+<a href="https://www.instagram.com/daniel.ferreira.01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/danielferreiira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
+<a href="https://www.tiktok.com/@ritmoexpresso" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></img>
 </a>
 
+<hr><br>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiira&langs_count=5)
+
 <h3>Tecnologias que eu uso no meu dia</h3>
 <div style="display=inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="align=center;" alt="Linguagem HTML5">
