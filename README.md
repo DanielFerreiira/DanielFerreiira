@@ -1,6 +1,10 @@
 <h1> Hello There, I'm Daniel Ferreira 👋</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://github.com/DanielFerreiira/PortFolio)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danielferreiira/)) [![LinkedIn](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]((https://www.tiktok.com/@ritmoexpresso))
+<a href="https://github.com/DanielFerreiira/PortFolio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+</a><a href="https://www.linkedin.com/in/danielferreiira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a><a href="https://www.tiktok.com/@ritmoexpresso" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></img>
+</a>
+
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight)
 <h3>Tecnologias que eu uso no meu dia</h3>
