@@ -5,6 +5,7 @@
 <a href="https://www.instagram.com/daniel.ferreira.01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></img></a>
 <a href="https://www.tiktok.com/@ritmoexpresso" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></img></a>
 </div>
+<h4>* Se quiser abrir uma nova aba aperte Ctrl+Link</h4>
 <hr><br>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFerreiira&show_icons=true&theme=tokyonight)
